@@ -6,8 +6,9 @@ const Navbar = () => {
     <header>
       <div className="container">
         <Link to="/">
-          <h1>Workout Buddy</h1>
+          <h1>Health Buddy</h1>
         </Link>
+        <button >Graph</button>
       </div>
     </header>
   )
