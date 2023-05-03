@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom'
-import {BrowserRouter, Routes, Route } from 'react-router-dom'
-import AboutUs from '../pages/AboutUs'
+// import {BrowserRouter, Routes, Route } from 'react-router-dom'
+// import AboutUs from '../pages/AboutUs'
 
 const Navbar = () => {
 
