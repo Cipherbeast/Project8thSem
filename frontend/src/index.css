@@ -20,6 +20,24 @@ a{
   color: #1aac83;
 }
 
+.instagram
+{
+  height: 40px;
+  padding: 20px;
+  margin-top: 10px;
+}
+
+
+.socials
+{
+  max-width: 300px;
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+  
+
 header .container {
   max-width: 1400px;
   margin: 0 auto;
